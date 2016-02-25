@@ -234,19 +234,17 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {116495130,145266153},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[theeagle bot 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : text_edriss
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ   @xX_mahtab_xX
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -360,14 +358,11 @@ function create_config( )
 ------------------------------------------------------------------------------------------------------------
 
 
-کانال ما : @Pro_Programing
+کانال ما : @text_edriss
 
 اعضای اصلی ما : 
 
-@Arsalan_Sahel  [سازنده]
-@Bad00boy_Creed [عضو اصلی ]
-@Creed_aria [عضو اصلی]
-@AmirCc_CreeD [عضو اصلی]
+@xX_mahtab_xX  [سازنده]
 ]],
     help_text = [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -481,10 +476,7 @@ function create_config( )
 
 اعضای اصلی ما : 
 
-@Arsalan_Sahel  [سازنده]
-@Bad00boy_Creed [عضو اصلی ]
-@Creed_aria [عضو اصلی]
-@AmirCc_CreeD [عضو اصلی]
+@xX_mahtab_xX  [سازنده]
 ]],
   }
   serialize_to_file(config, './data/config.lua')
