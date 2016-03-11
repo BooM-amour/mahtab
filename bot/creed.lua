@@ -209,8 +209,6 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
-    "Boobs",
-    "Feedback",
     "lock_join",
     "antilink",
     "antitag",
@@ -232,23 +230,22 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "leave_ban"
+    "leave_ban",
+    "plugins"
     },
-    sudo_users = {116495130,145266153},--Sudo users
+    sudo_users = {158482271},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[theeagle bot 2.3
+    about_text = [[Anti_Spam bot 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : text_edriss
+    ‼️ this bot is made by :
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @xX_mahtab_xX
+   ߔࠀ   @arminn63
    〰〰〰〰〰〰〰〰
-  ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
-   تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
-   !feedback (your ideas and messages)
+
 ]],
     help_text_realm = [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -472,10 +469,10 @@ function create_config( )
 ------------------------------------------------------------------------------------------------------------
  نکته !!!! :   با دستور *اخراجم کن* میتوانید از گروه بروید . 
 ------------------------------------------------------------------------------------------------------------
-کانال ما : @text_edriss ߔࠀ
+ @arminn63
 اعضای اصلی ما : 
 
- ߔࠀ @xX_mahtab_xX  [سازنده]
+ ߔࠀ @xarminn63 [سازنده]
 ]],
   }
   serialize_to_file(config, './data/config.lua')
