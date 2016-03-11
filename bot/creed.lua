@@ -236,7 +236,7 @@ function create_config( )
     sudo_users = {158482271},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Anti_Spam bot 2.3
+    about_text = [[Tele_Agent bot 2.3
     
      Hello my Good friends 
      
