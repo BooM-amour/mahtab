@@ -355,11 +355,11 @@ function create_config( )
 ------------------------------------------------------------------------------------------------------------
 
 
-کانال ما : @text_edriss
+کانال ما : @arminn63
 
 اعضای اصلی ما : 
 
- @xX_mahtab_xX  [سازنده]
+ @arminn63  [سازنده]
 ]],
     help_text = [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -472,7 +472,7 @@ function create_config( )
  @arminn63
 اعضای اصلی ما : 
 
- ߔࠀ @xarminn63 [سازنده]
+ ߔࠀ @arminn63[سازنده]
 ]],
   }
   serialize_to_file(config, './data/config.lua')
